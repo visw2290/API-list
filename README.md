@@ -1,4 +1,4 @@
-This repo contains API of popular websites for learing
+This repo contains API of popular websites for learning
 
 1) Facebook graph API
 2) Google Youtube API
